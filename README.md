@@ -17,4 +17,4 @@ The model architecture includes multiple convolutional layers, pooling layers, a
 ## Technologies Used
 - Python
 - TensorFlow/Keras
-- OpenCV for image preprocessing
+
